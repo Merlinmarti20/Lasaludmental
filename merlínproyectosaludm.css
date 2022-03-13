@@ -1,0 +1,33 @@
+body{
+border:10px dotted;
+margin-top:15px;
+margin-left:15px;
+margin-right:15px;
+border-color:#000000;
+background:#ffc0cb;
+color:#000000;
+
+}
+P{
+margin-left:40 px;
+Margin-right:40 px;
+text-aling:justify;
+font-size:25 px ;		
+text-shadow:2px;
+}
+Img{
+border-style:dashed;
+border-width: 15px;
+border-color:#ffff00 #ff0000 #0000ff #008000;
+border-radius:80 px ;		
+Float:left;
+Float:ring ;
+
+}
+
+
+
+
+
+
+
